@@ -1,6 +1,6 @@
 # User stories
 
-<font size=5>User stories are used in the software development process as a form of expression to describe requirements; in order to quickly target potential people who would use ***FacialDecoration***.</font>
+<font size=4>User stories are used in the software development process as a form of expression to describe requirements; in order to quickly target potential people who would use *FacialDecoration*.</font>
 
 Of the potential user base for FacialDecoration, the majority are female users, with 85% of them likely to be concentrated in the under 35 age group. Of these users, the most frequent users of this product are likely to be those who are streamers and who will attract followers in this way. This is followed by those who are often active on social networks and like to share their lives.
 
